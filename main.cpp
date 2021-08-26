@@ -7,8 +7,8 @@
 using namespace std;
 /**
  * @file main.cpp
- * @author Onur Ertunc 21802760
- * @brief 
+ * @author Onur Ertunc 
+ * @brief Algorithm analysis of some well-known searching algorithms 
  * @version 
  * @date 2021-04-08
  * 
